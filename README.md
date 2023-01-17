@@ -28,13 +28,14 @@ I am a Frontend  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m working on uploading more work on Github
 
-- 🌱 I’m currently learning  javascript
+- 🌱 I’m currently learning  React js
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mohammed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-arrafi-2aa294223/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Html5" **alt="Html5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" **alt="Html5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
